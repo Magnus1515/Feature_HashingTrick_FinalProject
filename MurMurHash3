@@ -1,0 +1,139 @@
+#include <cstddef>
+#include <cstdint>
+#include <cstdio>
+
+namespace util {
+
+struct funcs;
+template <typename S> struct mh3_internal;
+template <typename S, S default_seed> struct mh3;
+typedef mh3<uint32_t, 0> mh3_default;
+
+struct funcs {
+	constexpr static inline std::size_t strlen(char const* const str) {
+		return (nullptr==str || *str=='\0') ? 0 : 1+funcs::strlen(str+1);
+	}
+
+	template <typename Y, typename Z>
+	constexpr static inline auto rotl32(Y const x, Z const r) -> decltype(x+r) {
+		return (x<<r) | (x>>(32-r));
+	}
+};
+
+template <> struct mh3_internal<uint32_t> {
+	constexpr static uint32_t C1_=0xcc9e2d51;
+	constexpr static uint32_t C2_=0x1b873593;
+	constexpr static uint32_t MX_=0xe6546b64;
+	constexpr static uint32_t F1_=0x85ebca6b;
+	constexpr static uint32_t F2_=0xc2b2ae35;
+};
+
+template <uint32_t default_seed> struct mh3<uint32_t, default_seed> : private mh3_internal<uint32_t> {
+	constexpr static inline uint32_t calc(char const* const str, uint32_t const seed=default_seed) {
+		return do_string(str, seed, (uint32_t const)funcs::strlen(str));
+	};
+
+private:
+	#define dbeg(typ, data) ((typ const* const)data)
+	#define dend(typ, data, len) ((typ const* const)((uint8_t const* const)data+((len&0xFFFFFFFC))))
+
+	constexpr static inline uint32_t do_string(char const* const str, uint32_t const seed, uint32_t const len) {
+		return
+		fmix(
+			tail(
+				len,
+				dend(uint8_t, str, len),
+				body(
+					dend(uint32_t, str, len),
+					dbeg(uint32_t, str),
+					seed
+				)
+			)
+		);
+	};
+
+	#undef dend
+	#undef dbeg
+
+	// Only handles every whole 4-byte block
+	constexpr static inline uint32_t body(uint32_t const* const end, uint32_t const* const iter, uint32_t const h1) {
+		return iter==end ? h1 : body(end, iter+1, do_block(*iter, h1));
+	};
+
+	constexpr static inline uint32_t do_block(uint32_t const k1, uint32_t const h1) {
+		return funcs::rotl32(h1^(funcs::rotl32(k1*C1_, 15)*C2_), 13)*5+MX_;
+	};
+
+	// Handle the last non-whole block (if there is one) and mix it in
+	constexpr static inline uint32_t tail(uint32_t const len, uint8_t const* const tail, uint32_t const h1) {
+		return (h1^funcs::rotl32(tail_cascade(tail, len&3)*C1_, 15)*C2_)^len;
+	};
+
+	constexpr static inline uint32_t tail_cascade(uint8_t const* const tail, uint32_t const slots, uint32_t const k1=0/*, uint32_t const shift=16*/) {
+		return slots==0 ? k1 : tail_cascade(tail, slots-1, k1^tail[slots-1]<<((slots-1)<<3));
+	};
+
+	// Mix it up real good; toss some cheese in there, a dash of salt and a smidgen of paprika
+	constexpr static inline uint32_t fmix(uint32_t h1) {
+		return (h1=F2_*(h1=F1_*(h1^h1>>16), h1^h1>>13)), h1^h1>>16;
+	};
+};
+
+} // namespace util
+
+struct hpair {
+	char const* const str;
+	uint32_t const hash;
+};
+
+static hpair const test_data[]={
+	{"uhadrighea", 0x670f7f27},
+	{"iuhaeruigh", 0x215f6cee},
+	{"qeirugh", 0x3268ca3},
+	{"iuqwehgiu", 0x243bd696},
+	{"hwdfiug", 0xf3f4e343},
+	{"h845gwhr89gh3j6w", 0xbdd359da},
+	{"8978erthg", 0xf28f95a2},
+	{"aes5y$%JU^WRS^&*EJ%YGHIA", 0x5fa8197c},
+	{"jegAEJ%YJ", 0x31459048},
+	{"WR(^HJ", 0x9b530e01},
+	{"SFJN(", 0xc8381769},
+	{"ERJ^HJKDR^YJHSDI*F", 0xff1580c3},
+	{"JB*SEJTHI", 0x7e05a7f3},
+	{"$^JK", 0xad57f96e},
+	{"top7djSRTIJAS", 0xe699d7d3},
+	{"E%TJCA#(ARHKFYO<<>PJKU", 0xc046b1d3},
+	{"OZ,/TDKJSR56./,YJRTKJOPSJ$%HI", 0xee054684},
+	{"SCJ%IGJAEFGJ", 0x11f310d8},
+	{"ETH87,9\\[p[", 0xdcf11cd6},
+	{"ISRTJHIS", 0x1fffa759},
+	{"ROTNJH", 0x7826ea9b},
+	{"ISEN%GIQ^", 0xf364917c},
+	{"IURT^UIOEMR^Y", 0x64aafe4e},
+	{"N3564w57E%&IDTK7mrynjwR^KJ", 0x4905f46f},
+	{nullptr, 0x00}
+};
+
+void print_hash(char const* const str, uint32_t const validate=0x00) {
+	uint32_t const hash=util::mh3_default::calc(str);
+	printf("%-50s: %#-.8x", str, hash);
+	if (0x00!=validate) {
+		printf(" ==? %#-.8x %s", validate, hash==validate ? "(pass)" : "(fail)");
+	}
+	putchar('\n');
+}
+
+int main(int argc, char* argv[]) {
+	int idx=0;
+	puts("Tests:");
+	for (hpair const* item; (item=&test_data[idx++]), nullptr!=item->str;) {
+		print_hash(item->str, item->hash);
+	}
+	if (argc>1) {
+		puts("\nGiven arguments:");
+		for (idx=1; argc>idx; ++idx) {
+			print_hash(argv[idx]);
+		}
+	}
+	return 0;
+}
