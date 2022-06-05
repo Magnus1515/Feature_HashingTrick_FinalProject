@@ -1,0 +1,1213 @@
+GeForce RTX 3090 Ti
+A100 80GB PCIe
+A100-PCIE-80GB
+GeForce RTX 3090
+A100-SXM4-40GB
+GeForce RTX 3080 Ti
+GRID A100-7-40C MIG 7g.40gb
+RTX A6000
+GRID A100-4C
+Tesla V100S-PCIE-32GB
+A100-PCIE-40GB
+GeForce RTX 3080
+A40
+Tesla V100-SXM2-32GB
+Tesla V100-SXM2-16GB
+RTX A5000
+Tesla V100-PCIE-16GB
+Tesla V100-PCIE-32GB
+A10G
+A10
+A40-8Q
+Quadro GV100
+GRID V100D-32Q
+TITAN V
+GeForce RTX 2080 Ti
+Tesla V100-FHHL-16GB
+RTX A4500
+TITAN RTX
+GeForce RTX 3070 Ti
+GRID V100D-16Q
+Quadro RTX 6000
+GRID RTX6000-3Q
+GeForce RTX 3070
+GRID RTX6000-6Q
+GeForce RTX 3080 Ti Laptop GPU
+Quadro RTX 8000
+GeForce RTX 3070 Ti Laptop GPU
+A30
+RTX A5000 Laptop GPU
+GeForce RTX 3080 Laptop GPU
+GRID RTX6000-2Q
+GRID RTX6000-8Q
+GRID RTX6000-4Q
+GeForce RTX 3060 Ti
+GeForce RTX 2080 SUPER
+GRID RTX8000P-6Q
+RTX A4000
+GeForce RTX 3070 Laptop GPU
+GeForce RTX 2080
+RTX A4000 Laptop GPU
+Quadro RTX 5000
+GeForce RTX 2070 SUPER
+GeForce RTX 2080 Super with Max-Q Design
+GeForce RTX 2080 with Max-Q Design
+GeForce RTX 3060
+Quadro RTX 5000 with Max-Q Design
+GeForce RTX 3060 Laptop GPU
+GeForce RTX 2070
+A40-12Q
+GeForce RTX 2060 SUPER
+Quadro RTX 4000
+Quadro GP100
+RTX A3000 Laptop GPU
+GeForce RTX 2070 Super with Max-Q Design
+GeForce RTX 2070 with Max-Q Design
+GRID A100-2-10C MIG 2g.10gb
+Tesla P100-PCIE-16GB
+RTX A2000
+RTX A2000 12GB
+Tesla P100-PCIE-12GB
+Tesla T4
+GeForce RTX 2060
+GRID T4-2Q
+GeForce RTX 3050
+GRID T4-16Q
+Quadro RTX 3000
+Tesla P100-SXM2-16GB
+GeForce RTX 2060 with Max-Q Design
+Quadro RTX 4000 with Max-Q Design
+GeForce RTX 3050 Ti Laptop GPU
+GeForce GTX 1660 Ti
+GeForce GTX 1660 SUPER
+Quadro RTX 3000 with Max-Q Design
+GeForce GTX 1660 Ti with Max-Q Design
+RTX A2000 Laptop GPU
+GeForce GTX 1660
+GRID T4-4Q
+TITAN Xp COLLECTORS EDITION
+GeForce RTX 3050 Laptop GPU
+TITAN Xp
+GeForce GTX 1650 SUPER
+TITAN X (Pascal)
+GeForce GTX 1080 Ti
+GRID T4-8Q
+GeForce GTX 1080
+GeForce GTX 1070 Ti
+GeForce GTX 1650 Ti
+Tesla P40
+Quadro P6000
+GeForce GTX 1080 with Max-Q Design
+Quadro P5200 with Max-Q Design
+Quadro P5200
+GeForce GTX 1070
+Quadro P5000
+T1200 Laptop GPU
+Quadro T2000 with Max-Q Design
+GRID A100-1-5C MIG 1g.5gb
+GRID P40-2Q
+GeForce GTX 1650 Ti with Max-Q Design
+Quadro T2000
+GeForce GTX 1650
+Quadro P4000
+T1000 8GB
+GeForce GTX 1070 with Max-Q Design
+A2
+GeForce GTX 1650 with Max-Q Design
+T1000
+Quadro P4200
+GeForce GTX 980 Ti
+T600 Laptop GPU
+P106-100
+Quadro T1000
+GeForce GTX 1060 6GB
+Quadro T1000 with Max-Q Design
+GeForce GTX TITAN X
+Quadro M6000
+Quadro M6000 24GB
+GeForce GTX 1060 3GB
+Quadro P3200 with Max-Q Design
+Tesla P4
+Tesla M40
+GeForce GTX 1060
+Tesla M40 24GB
+T500
+Quadro P2200
+GeForce GTX 1060 5GB
+GeForce MX450
+GeForce GTX 980
+GeForce GTX 1060 with Max-Q Design
+T600
+Quadro P3200
+GeForce GTX 970
+Tesla M60
+Quadro M5000
+Quadro P3000
+Quadro P2000
+GeForce GTX 980M
+GeForce GTX 780 Ti
+P106-090
+GeForce GTX 1050 Ti
+GeForce GTX TITAN Black
+Quadro M5000M
+GeForce GTX 1050 Ti with Max-Q Design
+GeForce GTX TITAN Z
+GeForce GTX 970M
+Quadro P2000 with Max-Q Design
+GeForce GTX 780
+GeForce GTX TITAN
+GeForce GTX 960
+Quadro K6000
+GeForce GTX 1050
+T400
+Quadro M4000
+T400 4GB
+Tesla K80
+GeForce GTX 950
+Quadro M3000M
+GeForce GTX 1050 with Max-Q Design
+Tesla K40c
+Quadro P1000
+Tesla K40m
+GeForce GTX 965M
+GeForce GTX 770
+Quadro K5200
+GeForce GTX 680
+Quadro M2000
+Quadro M2200
+Tesla K20Xm
+GeForce MX350
+GeForce GTX 690
+GeForce GTX 750 Ti
+Tesla M10
+Tesla K20m
+GeForce GTX 670
+Tesla K20c
+GeForce GTX 960M
+Quadro P620
+Quadro K2200
+GeForce GTX 680MX
+GeForce GTX 660 Ti
+GeForce GTX 860M
+Quadro M2000M
+GeForce GTX 760
+Quadro P600
+GeForce GTX 750
+GeForce GT 1030
+Quadro M1200
+GeForce GTX 880M
+GRID M10-8Q
+GeForce MX330
+GeForce MX150
+GeForce GTX 950M
+GeForce MX250
+GeForce GTX 850M
+GeForce GTX 780M
+GeForce GTX 870M
+Quadro K1200
+GeForce GTX 760 (192-bit)
+Quadro K4200
+Quadro M620
+GeForce GTX 660
+Quadro K5000
+Quadro M1000M
+Quadro P520
+Quadro M520
+GeForce MX130
+GeForce GTX 650 Ti BOOST
+GeForce GTX 675MX
+GeForce MX230
+Quadro K4100M
+Quadro K620
+GeForce GTX 770M
+GeForce GTX 745
+Quadro P500
+GeForce 940MX
+GeForce GTX 650 Ti
+GeForce 940M
+Quadro M500M
+Quadro P400
+GeForce 840M
+GeForce 930MX
+GeForce GTX 765M
+Quadro K4000
+GeForce 930M
+Quadro K4000M
+GeForce MX110
+GeForce 830M
+GeForce GTX 760M
+GeForce 920MX
+Quadro K3100M
+GeForce GTX 645
+GeForce GTX 650
+GeForce GT 740
+GeForce GT 750M
+Quadro K2000
+Quadro K2100M
+GeForce GTX 660M
+GeForce GT 640
+GeForce GT 745M
+GeForce GT 635
+GeForce GT 740M
+GeForce 920M
+GeForce GT 730
+GeForce GT 650M
+GeForce GT 730M
+Quadro K2000M
+GeForce GT 630
+Quadro K1100M
+GeForce GT 640M
+GeForce GT 710
+GeForce GT 720
+Quadro K610M
+Quadro K600
+Quadro K420
+Quadro K1000M
+NVS 510
+15D8:C8
+15D8:C9
+15D8:CA
+15D8:CB
+15D8:CC
+15D8:D8
+15D8:D9
+15D8:DA
+15D8:DB
+67EF:C0
+67EF:CF
+7360:41 (NAVI 12)
+A10 GPU
+A10X GPU
+A11 GPU
+A12 GPU
+A12X GPU
+A12Z
+A12Z GPU
+A13 GPU
+A14 GPU
+A15 GPU
+A7 GPU
+A8 GPU
+A8X GPU
+A9 GPU
+A9X GPU
+Adreno  430
+Adreno  506
+Adreno  509
+Adreno  512
+Adreno  530
+Adreno  540
+Adreno  610
+Adreno  612
+Adreno  615
+Adreno  616
+Adreno  618
+Adreno  619
+Adreno  620
+Adreno  630
+Adreno  640
+Adreno  642
+Adreno  642L
+Adreno  643
+Adreno  650
+Adreno  660
+Adreno  730
+AlderLake-S Mobile Graphics Controller
+Amber Lake (Kabylake) GT2
+Arc A350M Graphics
+Bay Trail
+Device 6863
+Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]
+Fiji [Radeon R9 FURY / NANO]
+FirePro D300
+FirePro D500
+FirePro D700
+FirePro M4000
+Firepro M4100
+FirePro M4150
+FirePro M4170
+FirePro M5100
+FirePro M5950
+FirePro M6000
+FirePro M6100
+FirePro S10000
+FirePro S7150
+FirePro S9300 x2
+FirePro V
+FirePro V3900
+FirePro V4800
+FirePro V4900
+FirePro V5800
+FirePro V5900
+FirePro V7800
+FirePro W2100
+FirePro W4100
+FirePro W4170M
+FirePro W4190M
+FirePro W5000
+FirePro W5100
+FirePro W5130M
+FirePro W5170M
+FirePro W7000
+FirePro W7100
+FirePro W8100
+FirePro W9000
+FirePro W9100
+GeForce 410M
+GeForce 510
+GeForce 605
+GeForce 610M
+GeForce 615
+GeForce 710A
+GeForce 710M
+GeForce 730A
+GeForce 800M
+GeForce 810A
+GeForce 810M
+GeForce 820A
+GeForce 820M
+GeForce 830A
+GeForce 840A
+GeForce 845M
+GeForce 910M
+GeForce 930A
+GeForce 945M
+GeForce GT 415M
+GeForce GT 420
+GeForce GT 420M
+GeForce GT 425M
+GeForce GT 430
+GeForce GT 435M
+GeForce GT 440
+GeForce GT 520
+GeForce GT 520M
+GeForce GT 520MX
+GeForce GT 525M
+GeForce GT 530
+GeForce GT 540M
+GeForce GT 545
+GeForce GT 550M
+GeForce GT 555M
+GeForce GT 610
+GeForce GT 620
+GeForce GT 620M
+GeForce GT 625
+GeForce GT 625 (OEM)
+GeForce GT 625M
+GeForce GT 630M
+GeForce GT 635M
+GeForce GT 640M LE
+GeForce GT 645M
+GeForce GT 705
+GeForce GT 710M
+GeForce GT 720M
+GeForce GT 735M
+GeForce GT 755M
+GeForce GT 820M
+GeForce GT625M
+GeForce GTS 450
+GeForce GTX 1660 Ti
+GeForce GTX 460
+GeForce GTX 460 SE
+GeForce GTX 460 v2
+GeForce GTX 460M
+GeForce GTX 465
+GeForce GTX 470
+GeForce GTX 480
+GeForce GTX 550 Ti
+GeForce GTX 560
+GeForce GTX 560 SE
+GeForce GTX 560 Ti
+GeForce GTX 560M
+GeForce GTX 570
+GeForce GTX 580
+GeForce GTX 580M
+GeForce GTX 590
+GeForce GTX 670M
+GeForce GTX 670MX
+GeForce GTX 675M
+GeForce GTX 680M
+GeForce GTX 760 Ti OEM
+GeForce GTX 775M
+GeForce GTX 950A
+GeForce GTX GTX880M
+GeForce MX550
+GeForce RTX 2050
+Gen12 Desktop Graphics Controller
+Gen12 Mobile Graphics Controller
+Gen12LP HD Graphics NEO
+Gen8 HD Graphics NEO
+Gen9 HD Graphics NEO
+Graphics (ADL-S GT1)
+Graphics (RKL GT1)
+Graphics [0x3ea0]
+Graphics [0x4905]
+Graphics [0x5917]
+Graphics [0x9a49]
+Graphics [0x9b41]
+Graphics 630
+Graphics Device
+Graphics Gen12LP [0x9a49]
+Graphics Gen9 [0x5916]
+GRID K1
+GRID K2
+GRID K520
+GRID M10-1B
+GRID M10-1Q
+GRID M60-1Q
+GRID P4-8Q
+GRID RTX6000-1Q
+GRID RTX6000P-24Q
+GRID RTX6000P-6Q
+GRID RTX6000P-8Q
+GRID T4-16A
+GRID T4-16C
+GRID T4-1B
+GRID T4-2B
+GRID T4-4C
+GRID T4-8C
+GRID V100D-4Q
+GRID V100S-32Q
+Haswell Desktop
+HD Graphics
+HD Graphics (Whiskey Lake 3x8 GT2)
+HD Graphics 2500
+HD Graphics 2500 (IVB GT1)
+HD Graphics 400
+HD Graphics 4000
+HD Graphics 4000 (IVB GT2)
+HD Graphics 405
+HD Graphics 4200
+HD Graphics 4400
+HD Graphics 4400 (HSW GT2)
+HD Graphics 4600
+HD Graphics 4600 (HSW GT2)
+HD Graphics 500
+HD Graphics 5000
+HD Graphics 5000 (HSW GT3)
+HD Graphics 505
+HD Graphics 505 (APL 3)
+HD Graphics 510
+HD Graphics 515
+HD Graphics 515 (SKL GT2)
+HD Graphics 520
+HD Graphics 520 (SKL GT2)
+HD Graphics 520 [0x1916]
+HD Graphics 530
+HD Graphics 530 (SKL GT2)
+HD Graphics 530 (Skylake GT2)
+HD Graphics 530 [0x1912]
+HD Graphics 5300
+HD Graphics 5300 (BDW GT2)
+HD Graphics 5300 (Broadwell GT2)
+HD Graphics 5500
+HD Graphics 5500 (BDW GT2)
+HD Graphics 5600
+HD Graphics 6000
+HD Graphics 6000 (BDW GT3)
+HD Graphics 610
+HD Graphics 610 (Kaby Lake GT1)
+HD Graphics 615
+HD Graphics 615 (Kaby Lake GT2)
+HD Graphics 615 (KBL GT2)
+HD Graphics 620
+HD Graphics 620 (KBL GT2)
+HD Graphics 630
+HD Graphics 630 (Kaby Lake GT2)
+HD Graphics 630 (KBL GT2)
+HD Graphics Family
+HD Graphics Gen11
+HD Graphics Gen9
+HD Graphics P4000
+HD Graphics P4600
+HD Graphics P530
+HD Graphics P630
+HD Graphics Unknown
+HD Graphics XXX (BSW)
+Iris Graphics
+Iris Graphics 5100
+Iris Graphics 540
+Iris Graphics 550
+Iris Graphics 6000
+Iris Graphics 6100
+Iris Graphics 650
+Iris Plus Graphics
+Iris Plus Graphics 640
+Iris Plus Graphics 645
+Iris Plus Graphics 650
+Iris Plus Graphics 655
+Iris Pro
+Iris Pro Graphics
+Iris Pro Graphics 5200
+Iris Pro Graphics 580
+Iris Pro Graphics 580 (Skylake GT4e)
+Iris Pro Graphics 6200
+Iris Pro Graphics P580
+Iris Pro Graphics P6300
+Iris(R) Graphics 540
+Iris(R) Graphics 550
+Iris(R) Graphics 6100 (BDW GT3)
+Iris(R) Plus Graphics
+Iris(R) Plus Graphics (ICL GT2)
+Iris(R) Plus Graphics 640
+Iris(R) Plus Graphics 645
+Iris(R) Plus Graphics 650
+Iris(R) Plus Graphics 655
+Iris(R) Plus Graphics 655 (CFL GT3)
+Iris(R) Pro Graphics 580
+Iris(R) Pro Graphics P5200 (HSW GT3)
+Iris(R) Pro Graphics P580
+Iris(R) Xe Graphics
+Iris(R) Xe Graphics [0x9a49]
+Iris(R) Xe MAX Graphics
+Iris(R) Xe MAX Graphics [0x4905]
+KBL Graphics
+KBL Unknown
+LakeField Mobile Graphics Controller
+llvmpipe (LLVM 12.0.0, 256 bits)
+M1
+M1 GPU
+M1 Max
+M1 Pro
+M1 Ultra
+Mali-G31
+Mali-G51
+Mali-G52
+Mali-G52 MC1
+Mali-G52 MC2
+Mali-G52 MC2 r1p0
+Mali-G52 r0p0
+Mali-G52 r1p0
+Mali-G57
+Mali-G57 MC2
+Mali-G57 MC2 r0p1
+Mali-G57 MC3
+Mali-G57 MC3 r0p0
+Mali-G57 MC4
+Mali-G57 MC4 r0p0
+Mali-G57 MC5
+Mali-G57 MC5 r0p0
+Mali-G57 r0p0
+Mali-G57 r0p1
+Mali-G610 MC6
+Mali-G610 MC6 r0p0
+Mali-G610 r0p0
+Mali-G68
+Mali-G68 MC4
+Mali-G68 MC4 r1p1
+Mali-G68 r1p1
+Mali-G71
+Mali-G71 MP2
+Mali-G71 MP2 r0p0
+Mali-G71 r0p0
+Mali-G710 MC10
+Mali-G710 MC10 r0p0
+Mali-G72
+Mali-G72 MP3
+Mali-G72 MP3 r0p3
+Mali-G72 r0p1
+Mali-G72 r0p3
+Mali-G76
+Mali-G76 MC4
+Mali-G76 MC4 r0p0
+Mali-G76 r0p0
+Mali-G77
+Mali-G77 MC7
+Mali-G77 MC7 r0p1
+Mali-G77 MC9
+Mali-G77 MC9 r0p1
+Mali-G77 r0p1
+Mali-G78
+Mali-G78 r0p1
+Mali-T628
+Mali-T720
+Mali-T760
+Mali-T820
+Mali-T830
+Mali-T860
+Mali-T880
+Mali-TNAX
+Mali-TNAX r0p0
+Mobility Radeon HD 5000
+Mobility Radeon HD 5570
+Mobility Radeon HD 5800
+MuMu GL/VK
+MxGPU
+Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]
+Navi 14 [Radeon RX 5500/5500M / Pro 5500M]
+Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]
+Navi 22 [Radeon RX 6700/6700 XT / 6800M]
+NVS 310
+NVS 315
+NVS 4200M
+NVS 5200M
+NVS 5400M
+P102-100
+P104-100
+Paravirtual device
+PowerVR Rogue G6110
+PowerVR Rogue GE8100
+PowerVR Rogue GE8300
+PowerVR Rogue GE8320
+PowerVR Rogue GE8322
+PowerVR Rogue GE9215
+PowerVR Rogue GE9608
+PowerVR Rogue GE9920
+PowerVR Rogue GM9446
+PowerVR Rogue GT7400 Plus
+Quadro 1000M
+Quadro 2000
+Quadro 2000D
+Quadro 2000M
+Quadro 3000M
+Quadro 4000
+Quadro 4000M
+Quadro 410
+Quadro 5000
+Quadro 600
+Quadro 6000
+Quadro K2000D
+Quadro K2200M
+Quadro K3000M
+Quadro K5000M
+Quadro K5100M
+Quadro K620M
+Quadro M4000M
+Quadro M600M
+Quadro P4200 with Max-Q Design
+QUALCOMM Adreno
+Radeon
+Radeon 500
+Radeon 520
+Radeon 530
+Radeon 535
+Radeon 535DX
+Radeon 540
+Radeon 540X
+Radeon 550
+Radeon 550X
+Radeon 5700XT
+Radeon 610
+Radeon 620
+Radeon 625
+Radeon 630
+Radeon 6600M and 6700M
+Radeon 6600XT
+Radeon Barts XT Prototype
+Radeon E9550
+Radeon HD 5400
+Radeon HD 5450
+Radeon HD 5500
+Radeon HD 5570
+Radeon HD 5600/5700
+Radeon HD 5670
+Radeon HD 5700
+Radeon HD 5700 XT
+Radeon HD 5700X
+Radeon HD 5750
+Radeon HD 5770
+Radeon HD 5800
+Radeon HD 5870
+Radeon HD 5900
+Radeon HD 6290
+Radeon HD 6300M
+Radeon HD 6310
+Radeon HD 6320
+Radeon HD 6380G
+Radeon HD 6410D
+Radeon HD 6450
+Radeon HD 6470M
+Radeon HD 6480G
+Radeon HD 6500
+Radeon HD 6520G
+Radeon HD 6530D
+Radeon HD 6550D
+Radeon HD 6570
+Radeon HD 6600A
+Radeon HD 6620G
+Radeon HD 6670
+Radeon HD 6700
+Radeon HD 6700M
+Radeon HD 6750M
+Radeon HD 6770
+Radeon HD 6770M
+Radeon HD 6800
+Radeon HD 6800M
+Radeon HD 6850 X2
+Radeon HD 6870
+Radeon HD 6900
+Radeon HD 6900 XT
+Radeon HD 6900M
+Radeon HD 6950
+Radeon HD 6970M
+Radeon HD 7000
+Radeon HD 7310
+Radeon HD 7340
+Radeon HD 7400
+Radeon HD 7400G
+Radeon HD 7400M
+Radeon HD 7420G
+Radeon HD 7450
+Radeon HD 7450A
+Radeon HD 7450M
+Radeon HD 7470
+Radeon HD 7480D
+Radeon HD 7500
+Radeon HD 7500/7600
+Radeon HD 7500G
+Radeon HD 7500M/7600M
+Radeon HD 7520G
+Radeon HD 7540D
+Radeon HD 7560D
+Radeon HD 7570
+Radeon HD 7570M
+Radeon HD 7570M/HD 7670M
+Radeon HD 7600
+Radeon HD 7600G
+Radeon HD 7600M
+Radeon HD 7620G
+Radeon HD 7640G
+Radeon HD 7650A
+Radeon HD 7650M
+Radeon HD 7660D
+Radeon HD 7660G
+Radeon HD 7670M
+Radeon HD 7690M
+Radeon HD 7700
+Radeon HD 7700M
+Radeon HD 7730M
+Radeon HD 7770
+Radeon HD 7770 GHz Edition
+Radeon HD 7800
+Radeon HD 7800M
+Radeon HD 7900
+Radeon HD 7950
+Radeon HD 7970M
+Radeon HD 8200 / R3
+Radeon HD 8210
+Radeon HD 8240
+Radeon HD 8250
+Radeon HD 8280E
+Radeon HD 8330
+Radeon HD 8330E
+Radeon HD 8370D
+Radeon HD 8400
+Radeon HD 8400 / R3
+Radeon HD 8450G
+Radeon HD 8470
+Radeon HD 8470D
+Radeon HD 8490
+Radeon HD 8500
+Radeon HD 8500M
+Radeon HD 8500M/8700M
+Radeon HD 8510G
+Radeon HD 8550G
+Radeon HD 8570
+Radeon HD 8570D
+Radeon HD 8570M
+Radeon HD 8600/8700M
+Radeon HD 8600M
+Radeon HD 8610G
+Radeon HD 8650G
+Radeon HD 8670D
+Radeon HD 8670M
+Radeon HD 8690M
+Radeon HD 8700M
+Radeon HD 8730M
+Radeon HD 8750M
+Radeon HD 8790M
+Radeon HD 8800M
+Radeon HD 8850M
+Radeon HD 8870M
+Radeon HD 8950
+Radeon HD Amethyst XT Prototype
+Radeon HD Baffin Mobile GL PRO Prototype
+Radeon HD Baffin Prototype
+Radeon HD Baffin Unknown Prototype
+Radeon HD Bonaire Unknown Prototype
+Radeon HD Bonaire XT Prototype
+Radeon HD Chelsea PRO Prototype
+Radeon HD Chelsea XT Prototype
+Radeon HD Ellesmere Prototype
+Radeon HD Ellesmere Unknown Prototype
+Radeon HD Emerald XT Prototype
+Radeon HD Fiji XT Prototype
+Radeon HD GFX10 Family Unknown Prototype
+Radeon HD Hawaii PRO Prototype
+Radeon HD Hawaii Unknown Prototype
+Radeon HD Hawaii XT Prototype
+Radeon HD Pitcairn PRO Prototype
+Radeon HD Pitcairn Unknown Prototype
+Radeon HD Pitcairn XT Prototype
+Radeon HD RX 6600 XT
+Radeon HD Saturn XT Prototype
+Radeon HD Tahiti LE Prototype
+Radeon HD Tahiti XT Prototype
+Radeon HD Tonga PRO Prototype
+Radeon HD Tonga XT Prototype
+Radeon HD Vega10 XT Prototype
+Radeon HD Venus LE Prototype
+Radeon HD Venus XTX Prototype
+Radeon HD Verde PRO Prototype
+Radeon HD Verde Unknown Prototype
+Radeon HD Verde XT Prototype
+Radeon HD5450
+Radeon HD8490
+Radeon HD8970M
+Radeon Instinct MI25 MxGPU
+Radeon Navi10
+Radeon Navi14
+Radeon Navi21
+Radeon Polaris
+Radeon PRO
+Radeon Pro 450
+Radeon Pro 455
+Radeon Pro 460
+Radeon Pro 480X
+Radeon Pro 5300
+Radeon Pro 5300M
+Radeon Pro 5500 XT
+Radeon Pro 5500M
+Radeon Pro 5500XT
+Radeon Pro 555
+Radeon Pro 555X
+Radeon Pro 560
+Radeon Pro 5600 XT
+Radeon Pro 5600M
+Radeon Pro 5600XT
+Radeon Pro 560X
+Radeon Pro 570
+Radeon Pro 5700
+Radeon Pro 5700 XT
+Radeon Pro 5700X
+Radeon Pro 5700XT
+Radeon Pro 570X
+Radeon Pro 575
+Radeon Pro 575X
+Radeon Pro 580
+Radeon Pro 580X
+Radeon Pro Duo
+Radeon Pro RADEON RX 5700 XT
+Radeon Pro Radeon RX 580
+Radeon Pro RX 5600XT
+Radeon Pro RX 580
+Radeon Pro RX5700
+Radeon Pro RX580
+Radeon Pro V520 MxGPU
+Radeon Pro Vega 16
+Radeon Pro Vega 20
+Radeon Pro Vega 48
+Radeon Pro Vega 56
+Radeon Pro Vega 64
+Radeon Pro Vega 64X
+Radeon Pro Vega II
+Radeon Pro Vega II Duo
+Radeon Pro Vega56
+Radeon Pro VII
+Radeon Pro W5500
+Radeon Pro W5500X
+Radeon Pro W5700
+Radeon Pro W5700X
+Radeon Pro W5700XT
+Radeon PRO W6600
+Radeon Pro W6600X
+Radeon PRO W6800
+Radeon PRO W6800X
+Radeon PRO W6800X Duo
+Radeon Pro W6900X
+Radeon Pro WX 2100
+Radeon Pro WX 3100
+Radeon Pro WX 3200
+Radeon Pro WX 4100
+Radeon Pro WX 4130
+Radeon Pro WX 4150
+Radeon Pro WX 4170
+Radeon Pro WX 5100
+Radeon Pro WX 7100
+Radeon Pro WX 7130
+Radeon Pro WX 8200
+Radeon Pro WX 9100
+Radeon Pro WX Vega M GL
+Radeon Pro WX3200
+Radeon Pro WX8200
+Radeon R2
+Radeon R3
+Radeon R4
+Radeon R5
+Radeon R5 200
+Radeon R5 230
+Radeon R5 235
+Radeon R5 240
+Radeon R5 340
+Radeon R5 340X
+Radeon R5 430
+Radeon R5 435
+Radeon R5 M200
+Radeon R5 M230
+Radeon R5 M240
+Radeon R5 M255
+Radeon R5 M315
+Radeon R5 M320
+Radeon R5 M330
+Radeon R5 M335
+Radeon R5 M420
+Radeon R5 M430
+Radeon R5 M435
+Radeon R5 M445
+Radeon R5E
+Radeon R6
+Radeon R6 M255DX
+Radeon R7
+Radeon R7 / HD 9000
+Radeon R7 + R7 200 Dual
+Radeon R7 200
+Radeon R7 240
+Radeon R7 250
+Radeon R7 250X
+Radeon R7 265
+Radeon R7 350
+Radeon R7 350X
+Radeon R7 360
+Radeon R7 370
+Radeon R7 430
+Radeon R7 450
+Radeon R7 A360
+Radeon R7 M260
+Radeon R7 M260X
+Radeon R7 M265
+Radeon R7 M270
+Radeon R7 M340
+Radeon R7 M350
+Radeon R7 M360
+Radeon R7 M365X
+Radeon R7 M370
+Radeon R7 M440
+Radeon R7 M445
+Radeon R7 M460
+Radeon R7 M465
+Radeon R7E
+Radeon R8 M365DX
+Radeon R8 M445DX
+Radeon R8 M535DX
+Radeon R9 200
+Radeon R9 270
+Radeon R9 270X
+Radeon R9 280
+Radeon R9 290X
+Radeon R9 350
+Radeon R9 360
+Radeon R9 370
+Radeon R9 380
+Radeon R9 390
+Radeon R9 Fury
+Radeon R9 M200X
+Radeon R9 M265X
+Radeon R9 M275X
+Radeon R9 M290
+Radeon R9 M290X
+Radeon R9 M295X
+Radeon R9 M360
+Radeon R9 M370X
+Radeon R9 M375
+Radeon R9 M375X
+Radeon R9 M380
+Radeon R9 M390
+Radeon R9 M390X
+Radeon R9 M395
+Radeon R9 M395X
+Radeon Rro W5500X
+Radeon RX 350
+Radeon RX 460
+Radeon RX 470
+Radeon RX 480
+Radeon RX 5300
+Radeon RX 5300M
+Radeon RX 540
+Radeon RX 550
+Radeon RX 5500
+Radeon RX 5500 XT
+Radeon RX 5500M
+Radeon RX 550X
+Radeon RX 560
+Radeon RX 5600
+Radeon RX 5600 XT
+Radeon RX 5600M
+Radeon RX 560X
+Radeon RX 570
+Radeon RX 5700
+Radeon RX 5700 XT
+Radeon RX 5700 XT 50th Anniversary
+Radeon RX 5700xt
+Radeon RX 570X
+Radeon RX 580
+Radeon RX 580 2048SP
+Radeon RX 580X
+Radeon RX 590
+Radeon RX 590 GME
+Radeon RX 640
+Radeon RX 6500 XT
+Radeon RX 6600
+Radeon RX 6600 XT
+Radeon RX 6600M
+Radeon RX 6700 XT
+Radeon RX 6700M
+Radeon RX 6700S
+Radeon RX 6800
+Radeon RX 6800 XT
+Radeon RX 6800M
+Radeon RX 6800S
+Radeon RX 6900 XT
+Radeon RX 6900XT
+Radeon RX RX 5600 XT
+Radeon RX Vega
+Radeon RX Vega 10
+Radeon RX Vega 11
+Radeon RX Vega 11 Processor
+Radeon RX Vega 56
+Radeon RX Vega 64
+Radeon RX Vega 8
+Radeon RX Vega M GH
+Radeon RX Vega M GL
+Radeon RX Vega10 Unknown Prototype
+Radeon RX Vega11
+Radeon RX460
+Radeon RX480
+Radeon Unknown Prototype
+Radeon Vega
+Radeon Vega 10
+Radeon Vega 10 Mobile
+Radeon Vega 11
+Radeon Vega 2
+Radeon Vega 3
+Radeon Vega 3 Mobile
+Radeon Vega 6
+Radeon Vega 8
+Radeon Vega 8 Mobile
+Radeon Vega 9
+Radeon Vega Frontier Edition
+Radeon VII
+RADV BEIGE_GOBY
+RADV BONAIRE (ACO)
+RADV CARRIZO (ACO)
+RADV CARRIZO (LLVM 9.0.1)
+RADV DIMGREY_CAVEFISH
+RADV DIMGREY_CAVEFISH (ACO)
+RADV FIJI (LLVM 10.0.1)
+RADV HAWAII (ACO)
+RADV ICELAND (LLVM 10.0.0)
+RADV NAVI10
+RADV NAVI10 (ACO)
+RADV NAVI10 (LLVM 10.0)
+RADV NAVI10 (LLVM 10.0.0)
+RADV NAVI10 (LLVM 10.0.1)
+RADV NAVI10 (LLVM 11.0.0)
+RADV NAVI10 (LLVM 9.0.1)
+RADV NAVI14
+RADV NAVI14 (ACO)
+RADV NAVI14 (LLVM 10.0.0)
+RADV NAVI14 (LLVM 10.0.1)
+RADV NAVY_FLOUNDER
+RADV NAVY_FLOUNDER (ACO)
+RADV PITCAIRN (ACO)
+RADV POLARIS10
+RADV POLARIS10 (ACO)
+RADV POLARIS10 (LLVM 10.0.0)
+RADV POLARIS10 (LLVM 10.0.1)
+RADV POLARIS10 (LLVM 7.0.0)
+RADV POLARIS10 (LLVM 7.0.1)
+RADV POLARIS10 (LLVM 8.0.1)
+RADV POLARIS10 (LLVM 9.0)
+RADV POLARIS10 (LLVM 9.0.1)
+RADV POLARIS11
+RADV POLARIS11 (ACO)
+RADV POLARIS11 (LLVM 10.0)
+RADV POLARIS11 (LLVM 10.0.0)
+RADV POLARIS11 (LLVM 9.0)
+RADV POLARIS11 (LLVM 9.0.1)
+RADV POLARIS12
+RADV POLARIS12 (ACO)
+RADV POLARIS12 (LLVM 10.0.0)
+RADV RAVEN
+RADV RAVEN (ACO)
+RADV RAVEN (LLVM 10.0)
+RADV RAVEN (LLVM 10.0.0)
+RADV RAVEN (LLVM 10.0.1)
+RADV RAVEN (LLVM 9.0)
+RADV RAVEN (LLVM 9.0.1)
+RADV RAVEN2 (ACO)
+RADV RENOIR
+RADV RENOIR (ACO)
+RADV RENOIR (LLVM 10.0.0)
+RADV RENOIR (LLVM 10.0.1)
+RADV SIENNA_CICHLID
+RADV SIENNA_CICHLID (ACO)
+RADV TONGA
+RADV TONGA (ACO)
+RADV VANGOGH
+RADV VEGA10
+RADV VEGA10 (ACO)
+RADV VEGA10 (LLVM 10.0.0)
+RADV VEGA10 (LLVM 10.0.1)
+RADV VEGA20 (ACO)
+RADV VEGA20 (LLVM 9.0.1)
+RADV VEGAM
+RADV VEGAM (ACO)
+RADV VEGAM (LLVM 10.0.1)
+RADV VEGAM (LLVM 9.0.1)
+RADV VERDE
+RADV/ACO NAVI10 (LLVM 10.0.0)
+RADV/ACO NAVI10 (LLVM 10.0.1)
+RADV/ACO NAVI10 (LLVM 11.0.0)
+RADV/ACO NAVI10 (LLVM 9.0.0)
+RADV/ACO NAVI10 (LLVM 9.0.1)
+RADV/ACO POLARIS10 (LLVM 10.0.1)
+Renoir
+Samsung Xclipse 920
+Sapphire Redeon RX 5700XT Nitro+ 8GB
+SKL Graphics
+SKL Unknown
+SwiftShader Device (LLVM 10.0.0)
+Tegra K1
+Tegra X1
+Tegra X1 (nvgpu)
+Tegra X1 (rev B) (nvgpu)
+Tesla C2070
+Tesla C2075
+Tesla K10
+Tesla K10.G1.8GB
+Tesla K10.G2.8GB
+Tesla M2090
+Tesla V100-SXM2-32GB-LS
+UHD Graphics
+UHD Graphics (CML GT2)
+UHD Graphics (Comet Lake 3x8 GT2)
+UHD Graphics (ICL GT1)
+UHD Graphics (TGL GT1)
+UHD Graphics 600
+UHD Graphics 600 (Geminilake 2x6)
+UHD Graphics 600 (GLK 2)
+UHD Graphics 600 [0x3185]
+UHD Graphics 605
+UHD Graphics 610
+UHD Graphics 610 (CFL GT1)
+UHD Graphics 615
+UHD Graphics 617
+UHD Graphics 620
+UHD Graphics 620 (KBL GT2)
+UHD Graphics 620 (WHL GT2)
+UHD Graphics 630
+UHD Graphics 630 (CFL GT2)
+UHD Graphics 630 (CML GT2)
+UHD Graphics 710
+UHD Graphics 730
+UHD Graphics 750
+UHD Graphics 770
+UHD Graphics P630
+UHD Graphics P630 [0x3e96]
+V3D 4.2
+Vega 10 XL/XT [Radeon RX Vega 56/64]
+Vega 20 [Radeon VII]
+VeriSilicon
+VideoCore VI HW (V3D-620)
+Xe Graphics
+Xe Graphics (TGL GT2)
