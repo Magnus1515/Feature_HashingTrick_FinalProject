@@ -5,50 +5,37 @@ import numpy as np
 #from prettytable from PrettyTable
 
 
-## The two libraries provide the murmurhash3 hash function. 
+## libreria para poder importar la hash que requerimos para nuestro programa
 from sklearn.utils import murmurhash3_32
 #import mmh3 
-# initialize string
+# inicializamos un texto de prueba 
 text = 'denotes to January 2010.The album was released on April 26, 2010.'
 
 # using the sum(), strip(), split() methods
 #Metodo que nos contara las palabras y arrogara un n 
 
-#Funcion que nos cuenta el numero de palabras en nuestra lista
-    #result = sum([i.strip(string.punctuation).isalpha() for i in text.split()])
-    #result = pd.value_counts(np.array(txt))
-    #return result
 
- 
-# Returns number of words in string
+# Funcion que nos ayudara a contar las palabras de nuestra oracion o palabra
 def ConvertWords(string):
     OUT = 0
     IN = 1
     state = OUT
     wc = 0
  
-    # Scan all characters one by one
     for i in range(len(string)):
- 
-        # If next character is a separator,
-        # set the state as OUT
+
         if (string[i] == ' ' or string[i] == '\n' or
             string[i] == '\t'):
             state = OUT
  
-        # If next character is not a word
-        # separator and state is OUT, then
-        # set the state as IN and increment
-        # word count
         elif state == OUT:
             state = IN
             wc += 1
  
-    # Return the number of words
     return wc
-# print("a", a)
 
 #2.- Formula para determinar las columnas que llevara nuestra tabla
+
 def N_features(n):
     x = n-1
     exp = 2**x
@@ -80,7 +67,7 @@ def Get_indixes(lista_hashes,n_features):
   
   return(lista_nueva)
 
-#Convertir lista del numero de columnas que requerimos
+#5.-Convertir lista del numero de columnas que requerimos de 0 para cambiarlos despues
 def ConverLisToZeros(b):
     lst = []
     for i in range(0,b):
@@ -88,17 +75,17 @@ def ConverLisToZeros(b):
     return lst 
 
 #Obtener el numero mayor de indices 
-def High_index(lst):
-  indice_mayor = max(lst)
-  return indice_mayor
+# def High_index(lst):
+#   indice_mayor = max(lst)
+#   return indice_mayor
 
-#Obtiene el hash final el cual buscamos 
+#Obtiene el hash final el cual buscamos a partir de nuestra lista de ceros y las lista de indices 
 def FinalHashes(ListZeros, IndexList):  
   for i in IndexList:
     ListZeros[i] = 1
   return ListZeros
 
-
+#Funcion que une todas las funciones y variables que guardamos para poder correrlas todas en conjunto y conseguir un resultado final
 def FeatureHashing(text):
     a = ConvertWords(text)
     #print(a) 
@@ -111,7 +98,7 @@ def FeatureHashing(text):
     c = Get_indixes(hashes_solo,b)
     #print (c)
     z = ConverLisToZeros(b)
-    high_index = High_index(c)
+    #high_index = High_index(c)
     return FinalHashes(z,c)
     
 
@@ -157,7 +144,7 @@ def FeatureHashing(text):
 #x_x = FinalHashes(z,c)
 #print("        ")
 #print(FinalHashes(ConverLisToZeros(N_features(ConvertWords(text))),Get_indixes(ConverStringToHashes(convert(text),N_features)(ConvertWords(text)))))
-with open('Book1.txt') as f:
+with open('NvidiaGpus.txt') as f:
    lines = f.readlines()
     #print(lines)
     #print(lines[0])
@@ -169,14 +156,15 @@ with open('Book1.txt') as f:
 
 # lista = contenido.split("\n")
 print("Prueba 1: "," ")
-
 #print(lines[0])
 #print(FeatureHashing(text))
 #print(text)
 
 for i in range(len(lines)):
-    print(lines[i])
+    #print(lines[i])
     print(FeatureHashing(lines[i]))
+
+
 #print(lines[0])
 #print(FeatureHashing(lines[0]))
 #print(lines[1])
