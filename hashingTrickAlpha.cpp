@@ -10,21 +10,16 @@
 using namespace std;
 const int PRIME_CONST = 31;
 
-// int WordsCount(char *str){
-//    int count = 0;
-//    int temp = 0;
-//    while (*str){
-//       if (*str == ' ' || *str == '\n' || *str == '\t'){
-//          temp = 0;
-//       }
-//       else if(temp == 0){
-//          temp = 1;
-//          count++;
-//       }
-//       ++str;
-//    }
-//    return count;
-// }
+int WordsCount(string str){
+      int count = 1;
+    int length = str.length();
+    for (int i = 0; i < length; i++) {
+        int c = str[i];
+        if (isspace(c))
+            count++;
+    }
+    return count;
+}
 //Funcion que nos ayudara a contar las palabras de nuestra oracion o palabra
 int ContarPalabras2(string T){
 
@@ -138,7 +133,7 @@ vector<int> FeatureHashing(string texto)
     // string texto = ("Este sabado David fue a comer tacos de adobada");
     // char str[] = "Este sabado David fue a comer tacos de adobada";
     // int b = WordsCount(str);
-    int g = ContarPalabras2(texto); //En nuestra variable g contamos las palabras de nuestra oracion o palabra
+    int g = WordsCount(texto); //En nuestra variable g contamos las palabras de nuestra oracion o palabra
     int c = N_featrues(g); //En esta variable guardamos la cantidad de extension que tendra el hash 
     vector<string> h1 = SeparateWords(texto); // En el vector h1 separamos las palabras de nuestra oracion
     vector<int> h2 = ConvertStringToHashes(h1); // En h2 Convertimos estas palabras en hashes al
@@ -148,7 +143,11 @@ vector<int> FeatureHashing(string texto)
     vector<int> h4 = ConvertListToZeros(c); // Creamos nuestra lista de ceros con la extension requerida
     vector<int> h5 = FinalHashes(h4,h3); // Colocamos los 1 en la posicion de los indices requerida y esta nuevo vecto sera nuestro hash final
 
-    return h5; //regresamos h5 donde guardamos nuestro hash final
+     //regresamos h5 donde guardamos nuestro hash final
+    for (int i = 0; i < h5.size(); i++) {
+        std::cout << h5.at(i) << ' ';
+    }
+    return h5;
 
 }
 // Funcion que nos ayudara a poder imprimir nuestros vectores
@@ -160,37 +159,39 @@ void print(std::vector<int> const &input)
 }
 
 
-// int dataLoad(string filename){
+int dataLoad(string filename){
 
-//     ifstream input;
-//     int cc = 1;
-//     string word = "algoritmo";
-//     char* patron = &word[0];
-//     input.open(filename);
+    ifstream input;
+    input.open(filename);
 
     
 
-//     if (!input.is_open()){
-//         cout << "No pude leer el archivo";
-//         return 1;
-//     }
-//     cout << "Patron encontrado en: " << endl;
-//     while (input)
-//     {
-//         string line;        
-//         getline(input, line);
-//         char* texto = &line[0];               
-//         rabinKarp(patron, texto, cc);
-//         cc += 1;   
+    if (!input.is_open()){
+        cout << "No pude leer el archivo";
+        return 1;
+    }
+    while (input)
+    {
+        string line;        
+        getline(input, line);
+        cout<<line<<endl;              
+        FeatureHashing(line);
+        
+        cout<<"\n";   
             
-//     }
-//     input.close();
-//         return 1;      
-//     } 
+    }
+    input.close();
+        return 1;      
+    } 
 
 int main(){
-    vector<int> h6 = FeatureHashing("David come tacos de canasta");
-    print(h6);
+    //vector<int> h6 = FeatureHashing("David covbme tacos de canasta");
+    //print(h6);
+    dataLoad("NvidiaGpus.txt");
+    //cout<<WordsCount("GeForce RTX 3090 Ti");
+    //cout<<sizeof(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1);
+    // 28 bytes
+    // 4 byte
     // string texto = ("Este sabado David fue a comer tacos de adobada");
     // //char str[] = "Este sabado David fue a comer tacos de adobada";
     // //int b = WordsCount(str);
